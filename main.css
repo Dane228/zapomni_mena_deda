@@ -130,3 +130,19 @@ a:hover{
     border-bottom: 20px solid black;
     height: 600px;
 }
+
+.glavnaia h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.glavnaia{
+    padding: 30px;
+    background-color: #fff;
+    margin: 50px;
+    height: 500px;
+}
+
+.glavnaia a{
+    margin-right: 500px;
+}
